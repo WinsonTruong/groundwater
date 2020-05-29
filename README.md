@@ -1,6 +1,6 @@
 # Introduction 
 
-Silicon Valley is well-known for being a center of technological innovation and economic prosperity, yet it is also one of the most polluted places in the United States. Learn about how the chemicals used to clean the silicon-microchips in the 80s affects us today.! The questions I'm asking are:
+Silicon Valley is well-known for being a center of technological innovation and economic prosperity, yet it is also one of the most polluted places in the United States. Learn about how the chemicals used to clean the silicon-microchips in the 80s affects us today! The questions I'm asking are:
 
 1. How effective has cleanup of superfund sites in Santa Clara been today? Is there still an association between superfund site locations and nearby groundwater quality?
 2. Are certain populations disproportionately affected from superfund sites? Do more vulnerable groups (low-income, minority) tend to live closer to superfund sites?
@@ -22,5 +22,5 @@ There are 3 data folders in this repository:
 The 'Data' page in Notion explains the datasets in full detail!
 
 # Notebooks
-This project emphasizes EDA and visualizations and answers the questions using various tools such as Carto and random forest regressions.
+This project emphasizes EDA, visualizations, and feature selection to answers the questions using various tools such as Carto and random forest regressions.
 
