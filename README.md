@@ -2,7 +2,7 @@
 
 Silicon Valley is well-known for being a center of technological innovation and economic prosperity, yet it is also one of the most polluted places in the United States. Learn about how the chemicals used to clean the silicon-microchips in the 80s affects us today! 
 
-![tce](/images/tce.california.png)
+![tce](https://github.com/WinsonTruong/groundwater/blob/master/images/tce_california.png)
 
 
 The questions I'm asking are:
