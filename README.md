@@ -32,6 +32,8 @@ This project emphasizes EDA, visualizations, and feature selection to answers th
 
 2. More testing doesnt necessarily mean better groundwater.
 
+https://github.com/WinsonTruong/groundwater/blob/master/images/testing_heatmap.png
+
 
 Three things to note:
 1. ***Testing is effective!*** The focal point of the graph indicates that from around 2005-2008, the presence of 17-Dimethlyx and Acetaminophen hit a peak, before declining to seemingly normal levels. 
@@ -41,6 +43,9 @@ Three things to note:
 3. Testing volume is highly associated to marginalized races.
 
 By implementing a random forest model for feature selection, here are the top 10 determinants for testing volume
+
+https://github.com/WinsonTruong/groundwater/blob/master/images/top10features.png
+
 
 
 # Conclusion
