@@ -1,6 +1,8 @@
 # Introduction 
 
-Silicon Valley is well-known for being a center of technological innovation and economic prosperity, yet it is also one of the most polluted places in the United States. The image below is how far a cleaning chemical called trichloroethylene has spread across California. Learn about how the chemicals used to clean the silicon-microchips in the 80s affects us today! 
+Silicon Valley is well-known for being a center of technological innovation and economic prosperity, yet it is also one of the most polluted places in the United States. The image below is how far a cleaning chemical called trichloroethylene has spread across California. The image below shows the concentration of TCE across California!
+
+https://winsontruong.carto.com/builder/a7c91774-7c94-45fb-82dc-9d677740a439/embed
 
 ![tce](https://github.com/WinsonTruong/groundwater/blob/master/images/tce_california.png)
 
