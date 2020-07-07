@@ -13,7 +13,7 @@ The questions I'm asking are:
 # Notion Page
 What's a superfund? Whats TCE? 
 
-The background knowledge and workflow of this project is best documented [here!](https://www.notion.so/winsontruong/Silicon-Poisoned-Valley-8498e48a6d1e4915a68622b4d4c44388)
+The background knowledge and workflow of this project is [best documented here!](https://www.notion.so/winsontruong/Silicon-Poisoned-Valley-8498e48a6d1e4915a68622b4d4c44388)
 
 
 # Data
@@ -38,9 +38,9 @@ This project emphasizes EDA, visualizations, and feature selection to answers th
 
 
 Three things to note:
-1. ***Testing is effective!*** The focal point of the graph indicates that from around 2005-2008, the presence of 17-Dimethlyx and Acetaminophen hit a peak, before declining to seemingly normal levels. 
-2. ***Testing is expensive.*** From 2004-2008, there is a large volume and variety of tests being conducted for the top 10 most commonly found chemicals, but *I **don't find it coincidental that the disappearance of testing aligned with the Great Recession.*** I use the black color scheme for 0 for a figurative blackout of testing could be related to the state's budget.
-3. ***Testing is ambiguous**.* Unfortunately the amount of testing in 2013-2019 parallels initial levels in 2002. And further research is needed to be able to make any claims of groundwater poisoning leading to worse health outcomes as our analysis mainly observes frequency of testing as our dependent variable. Perhaps there is a possibility of false positives, false negatives, etc which would lead us in the direction of classification. Does more/less testing mean better groundwater conditions?
+- ***Testing is effective!*** The focal point of the graph indicates that from around 2005-2008, the presence of 17-Dimethlyx and Acetaminophen hit a peak, before declining to seemingly normal levels. 
+- ***Testing is expensive.*** From 2004-2008, there is a large volume and variety of tests being conducted for the top 10 most commonly found chemicals, but *I **don't find it coincidental that the disappearance of testing aligned with the Great Recession.*** I use the black color scheme for 0 for a figurative blackout of testing could be related to the state's budget.
+- **Testing is ambiguous**.* Unfortunately the amount of testing in 2013-2019 parallels initial levels in 2002. And further research is needed to be able to make any claims of groundwater poisoning leading to worse health outcomes as our analysis mainly observes frequency of testing as our dependent variable. Perhaps there is a possibility of false positives, false negatives, etc which would lead us in the direction of classification. Does more/less testing mean better groundwater conditions?
 
 3. Testing volume is highly associated to marginalized races.
 
