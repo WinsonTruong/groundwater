@@ -11,7 +11,8 @@ The questions I'm asking are:
 2. Are certain populations disproportionately affected from superfund sites? Do more vulnerable groups (low-income, minority) tend to live closer to superfund sites?
 
 # Notion Page
-What's a superfund? Whats TCE? The background knowledge and workflow of this project is best documented [here!](https://www.notion.so/winsontruong/Silicon-Poisoned-Valley-8498e48a6d1e4915a68622b4d4c44388)
+What's a superfund? Whats TCE? 
+The background knowledge and workflow of this project is best documented [here!](https://www.notion.so/winsontruong/Silicon-Poisoned-Valley-8498e48a6d1e4915a68622b4d4c44388)
 
 
 # Data
